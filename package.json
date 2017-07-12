@@ -1,0 +1,16 @@
+{
+  "name": "liribot-project",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dayan",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
