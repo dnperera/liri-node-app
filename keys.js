@@ -2,7 +2,9 @@ console.log("Keys Loaded");
 
 exports.twitterKeys ={
 	key:"7dJHi624dYOyBWhyPNQ2oB2sE",
-	secret:"7CSik8Kpf8sKI9pMgfYA0MpbBn7rb9SwquhVp9Qw3yMtOOmAAV"
+	secret:"7CSik8Kpf8sKI9pMgfYA0MpbBn7rb9SwquhVp9Qw3yMtOOmAAV",
+	accessToken:"884995769731776512-YyQt3SQVf1KH5C6QWEuabn7GUvE2093",
+	accessSecret:"Q57hw28NjhgRbhbSVkNtOaDuycGOCcPy9lZGUVD4BKApb"
 };
 
 exports.spotify = {
